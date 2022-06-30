@@ -1,2 +1,2 @@
-# Jogo-da-Mem-ria-JS-
-Jogo da Memória desenvolvido em Javascript
+# Jogo da Memória em JS
+
